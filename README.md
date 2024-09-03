@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website for News using open news apis. This project is build to train me on linking apis to frontend.
 
 ## Available Scripts
 
