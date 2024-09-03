@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Future of Play Direct, Future Games Show & More! | Summer of Gaming 2023 - IGN",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "url": "https://www.youtube.com/watch?v=XTpfp70xnKU",
+      "urlToImage": null,
+      "publishedAt": "2023-06-10T14:01:57Z", 
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": null,
+      "title": "Belmont Stakes 2023 predictions, odds, best bets: Expert picks for win, place, show, trifecta, superfecta - CBS Sports",
+      "description": "Forte, Tapit Trice and Angel of Empire are the 2023 Belmont Stakes favorites, but does our expert think they can win?",
+      "url": "https://www.cbssports.com/general/news/belmont-stakes-2023-predictions-odds-best-bets-expert-picks-for-win-place-show-trifecta-superfecta/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/05/6a103341-24fa-480c-9f44-b4b78243a40f/thumbnail/1200x675/7ffb6b93ff53cf4373d8eda53a443931/kentucky-derby-14-usatsi.jpg",
+      "publishedAt": "2023-06-10T13:32:54Z",
+      "content": "June has arrived, which means it's time for one of America's oldest traditions to take center stage. The Belmont Stakes was first held in 1867, making it the oldest of the three Triple Crown races. T… [+3364 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Neurosciencenews.com" },
+      "author": "Neuroscience News",
+      "title": "Unmasking Anosognosia: Revealing Hidden Brain Networks in Unawareness - Neuroscience News",
+      "description": "Researchers identified specific brain network connections associated with anosognosia, a condition where patients are unaware of their neurological or psychiatric deficits.",
+      "url": "https://neurosciencenews.com/unmasking-brain-network-23428/",
+      "urlToImage": "https://neurosciencenews.com/files/2023/06/anogonosia-psychology-neurosicnes.jpg",
+      "publishedAt": "2023-06-10T13:17:32Z",
+      "content": "Summary: Researchers identified specific brain network connections associated with anosognosia, a condition where patients are unaware of their neurological or psychiatric deficits.\r\nUsing a techniqu… [+4328 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "Crispin Odey Is Removed as Partner From His Hedge Fund Firm - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2023-06-10/crispin-odey-is-removed-as-partner-from-his-hedge-fund-firm",
+      "urlToImage": null,
+      "publishedAt": "2023-06-10T13:14:03Z",
+      "content": null
+    }
+  ]
+}
